@@ -2,4 +2,5 @@ venv
 drafts
 None
 .ipynb_checkpoints
+extract_notebook.py
 
